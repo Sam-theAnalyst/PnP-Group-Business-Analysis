@@ -1,4 +1,4 @@
-# Pick n Pay Group Financial & Economic Analysis
+# Pick n Pay Group Economic Analysis
 
 ## Project Overview
 
